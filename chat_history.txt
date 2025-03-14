@@ -1,0 +1,9 @@
+MSG:5:⚡ admin cleared the chat history.
+MSG:5:⚡ admin cleared the chat history.
+MSG:6:user has left the chat.
+MSG:6:user has left the chat.
+MSG:7:admin has left the chat.
+admin has joined the chat.
+MSG:1:admin [10:20:56]: hey
+MSG:2:admin [10:21:02]: how are u?
+MSG:3:admin has left the chat.
