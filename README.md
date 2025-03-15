@@ -1,5 +1,7 @@
 # 🖥️ Java Real-Time Chat Application (SyntaxTalk)
 A Real-time Chat Application in Java with GUI, User Authentication, and Chat History.
+# For Screen Recording video -> 
+https://drive.google.com/file/d/1tNbPNwJr75WDD6-n73DSVs7VhigU4FsT/view?usp=drive_link
 
 
 📌 Abstract
